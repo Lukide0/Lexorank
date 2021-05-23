@@ -1,7 +1,6 @@
 # Kantodo-Lexorank
 
 ## Maximal block value based on block size
-### BLOCK_COUNT = 5
 BLOCK_SIZE | String length |Max
 -------- | ----- |  -----
 1|5|52
