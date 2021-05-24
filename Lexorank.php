@@ -10,12 +10,9 @@
  * @author Lukáš Koliandr
  */
 
-namespace Kantodo\Task;
+namespace Kantodo\Team\Board;
 
 use InvalidArgumentException;
-
-$LEXORANK = new Lexorank();
-
 
 class Lexorank
 {    
