@@ -1,4 +1,4 @@
-# Kantodo-Lexorank
+# Lexorank
 
 ```php
 $lexorank = new Lexorank();
