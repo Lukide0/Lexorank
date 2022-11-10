@@ -6,11 +6,8 @@
 
 
 /**
- * Lexorank for Kantodo
  * @author Lukáš Koliandr
  */
-
-namespace Kantodo\Team\Board;
 
 use InvalidArgumentException;
 
